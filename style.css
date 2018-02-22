@@ -4,4 +4,5 @@ nav {
 div .col-sm-3 {
   height: 100VH;
   background-color: #ff00d0;
+  position: fixed;
 }
