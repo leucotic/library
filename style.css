@@ -1,6 +1,9 @@
 nav {
   padding: 2rem;
 }
+nav a{
+  text-decoration: none;
+}
 nav a:link, nav a:visited {
   color: white;
 }
