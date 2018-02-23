@@ -1,6 +1,12 @@
 nav {
   padding: 2rem;
 }
+nav a:link, nav a:visited {
+  color: white;
+}
+nav a:hover, nav a:active {
+  color: yellow;
+}
 div .col-sm-3 {
   height: 100VH;
   background-color: #ff00d0;
