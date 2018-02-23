@@ -2,6 +2,16 @@ nav {
   padding: 2rem;
   width: 350px;
 }
+nav ul {
+  list-style: none;
+}
+nav ul a {
+  padding: 5px;
+  border-radius: 100%;
+}
+nav ul a:hover, nav ul a:active{
+  background-color: black;
+}
 nav a:link, nav a:visited {
   color: white;
 }
