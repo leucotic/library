@@ -2,14 +2,12 @@ nav {
   padding: 2rem;
   width: 350px;
 }
-nav a{
-  text-decoration: none;
-}
 nav a:link, nav a:visited {
   color: white;
 }
 nav a:hover, nav a:active {
   color: yellow;
+  text-decoration: none;
 }
 div .col-sm-3 {
   height: 100VH;
@@ -20,6 +18,6 @@ div .col-sm-3 {
   z-index: 1;
 }
 div .col-md-8 {
-  margin-left: 400px;
-  margin-top: 20px;
+  margin-left: 375px;
+  padding-top: 2rem;
 }
