@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Masha's Library</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />    
+  </head>
+
+
+  <body>
+
+    <div class="row">
+      <div class="col-sm-3">
+        <nav>
+          <h1>Masha's Library</h1>
+          <p>
+            <a href="https://www.zotero.org/leucotic/items">Visit my Zotero library directly.</a>
+          </p>
+          <h4>Collections</h4>
+          <ul>
+            <li><a href"https://leucotic.github.io/library/essays">Meme Essays</a><li>
+          </ul>
+        <nav>
+      </div>
+      <div class="col-md-8">
+        <h2>Meme Essays Collection</h2>
+
+        <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F4162269%2Fcollections%2FQ4JTD2SZ%2Fitems%3Fkey%3D8HiuPKgGAobZ906BiwhzkzTF%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+
+      </div>
+    </div>
+
+  </body>
+</html>
